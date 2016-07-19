@@ -8,3 +8,4 @@ do
         date -d now
 done
 echo "over" `date -d now`
+echo ok
